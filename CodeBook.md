@@ -1,8 +1,7 @@
 codebook
 ==========
 
-
-downloads data from url
+if 'data' folder with all data is not present in directory, download and unzip it from url
 
 unzips it
 
